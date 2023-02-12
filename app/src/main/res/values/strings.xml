@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvi_cleanarch_example</string>
+    <string name="error_encountered">Error Encountered</string>
+    <string name="title">"All domains"</string>
+</resources>
